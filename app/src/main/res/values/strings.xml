@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UserInputAndroidApp</string>
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">\nThankyou !!!</string>
+    <string name="total">\nTotal : $</string>
+    <string name="quantity">\"\nQuantity \"</string>
+    <string name="add_chocolate">\"\nAdd Choclate  ? \"</string>
+    <string name="add_whip_cream">\"\nAdd Whipped Cream ? \"</string>
+    <string name="name_text">\"Name : <xliff:g id = "nametextview" example = "any" >%s</xliff:g> \"</string>
+    <string name="name">Name</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="choclate">Choclate</string>
+    <string name="quantity_text">quantity</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order">order</string>
+</resources>
